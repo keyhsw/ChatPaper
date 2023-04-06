@@ -792,7 +792,6 @@ api_description = '''<div align='left'>
 
 <img src='https://visitor-badge.laobi.icu/badge?page_id=https://huggingface.co/spaces/wangrongsheng/ChatPaper'>
 
-<img align='right' src='https://i.328888.xyz/2023/03/12/vH9dU.png' width="150">
 
 使用卡顿？请Fork到自己的Space，轻松使用：<a href="https://huggingface.co/spaces/wangrongsheng/ChatPaper?duplicate=true"><img src="https://bit.ly/3gLdBN6" alt="Duplicate Space"></a>
 
